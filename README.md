@@ -1,2 +1,2 @@
-# 2023-2-AlgorithmS
+# 2023-2-Algorithm
 Algorithm Lecture &amp;&amp; Assignment
